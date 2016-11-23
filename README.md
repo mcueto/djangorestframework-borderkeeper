@@ -1,2 +1,11 @@
 # djangorestframework-borderkeeper
-Keep your users in order (and limits it's access)
+Keep your users in order (and limits their access)
+
+=====
+djangorestframework-borderkeeper
+=====
+
+Warning
+-------
+
+    **This library is in an early stage of development(maybe too much), use with caution, and -if you can- push some changes :)**
