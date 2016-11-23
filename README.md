@@ -1,9 +1,8 @@
-# djangorestframework-borderkeeper
-Keep your users in order (and limits their access)
-
 =====
 djangorestframework-borderkeeper
 =====
+
+Keep your users in order (and limits their access)
 
 Warning
 -------
